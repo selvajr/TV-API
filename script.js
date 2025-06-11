@@ -18,7 +18,7 @@ async function foo() {
     <p class="card-text"><b>Genre :</b> ${data1[0].show.genres} </p>
     <p class="card-text"><b>Premiered :</b> ${data1[0].show.premiered} </p>
     <p class="card-text"><b>Rating :</b> ${data1[0].show.rating.average} </p>
-    <p class="card-text"><b>Runtime :</b> ${data1[0].show.genres} </p>
+    <p class="card-text"><b>Runtime :</b> ${data1[0].show.runtime} min </p>
     <p class="card-text"><b>Show Schedule :</b> ${data1[0].show.schedule.time}, ${data1[0].show.schedule.days} </p>
     <p class="card-text"><b>Official Site :</b> ${data1[0].show.officialSite} </p>
     <p class="card-text"><b>Network :</b> ${data1[0].show.network.name} </p>
