@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(204, 132, 199);
+}
+.trend{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+.main{
+    color: white;
+}
+.card{
+    margin: 200px;
+    margin-top: 0px;
+}
